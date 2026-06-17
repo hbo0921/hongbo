@@ -1,0 +1,8 @@
+prefix=/home/abot/310117/devel
+
+Name: TTS_audio
+Description: Description of TTS_audio
+Version: 0.0.0
+Cflags: -I/home/abot/310117/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

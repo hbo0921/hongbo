@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="robot_slam" pkg="robot_slam" type="robot_slam">
+  <param name="inflation_radius" type="double" value="0.05" />
+</node>
+\endverbatim
+

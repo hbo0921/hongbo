@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/abot/310592/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/abot/310592/src/abot_base/abot_bringup/include/**",
+        "/home/abot/310592/src/abot_base/abot_imu/include/**",
+        "/home/abot/310592/src/cam_track/include/**",
+        "/home/abot/310592/src/color_pkg/include/**",
+        "/home/abot/310592/src/dynamic_tutorials/dynamic_tutorials/include/**",
+        "/home/abot/310592/src/face_pkg/include/**",
+        "/home/abot/310592/src/abot_find/include/**",
+        "/home/abot/310592/src/abot_base/lidar_filters/include/**",
+        "/home/abot/310592/src/opencv_demo/include/**",
+        "/home/abot/310592/src/robot_slam/include/**",
+        "/home/abot/310592/src/robot_voice/include/**",
+        "/home/abot/310592/src/shoot_cmd/include/**",
+        "/home/abot/310592/src/track_tag/include/**",
+        "/home/abot/310592/src/tracker_pkg/include/**",
+        "/home/abot/310592/src/user_demo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
